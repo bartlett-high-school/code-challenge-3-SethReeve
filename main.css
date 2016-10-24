@@ -1,1 +1,21 @@
 /* Put your css here for your table and page styling */
+
+body {
+background-color: #000 ;
+}
+
+
+
+table th td {
+    border: 1px solid black;
+    width: 50px;
+    padding: 5px;
+    
+}
+
+
+table td {
+  margin: 0 5px 1px 1px
+}
+
+
