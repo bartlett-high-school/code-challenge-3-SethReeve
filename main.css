@@ -7,9 +7,10 @@ background-color: #fff ;
 
 
 table, th, td {
-    border: 1px solid black;
+    border: 10px solid black;
     width: 50px;
     padding: 5px;
+    
     
 }
 
