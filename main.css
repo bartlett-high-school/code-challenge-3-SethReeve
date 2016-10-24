@@ -11,7 +11,7 @@ table, th, td {
     width: 50px;
     padding: 5px;
     background-color: #590000;
-    color: #00ff00;
+   
     
     
 }
@@ -19,6 +19,7 @@ table, th, td {
 
 table td {
   margin: 0 5px 1px 1px
+       color: #00ff00;
 }
 
 
